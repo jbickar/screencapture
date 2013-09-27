@@ -12,5 +12,5 @@ To use:
 3. Enter browser.link.open_newwindow.override.external in the filter
 4. Set the value for that setting to "-1" (this will stop Firefox from opening external links in a new tab)
 5. Populate sites-list.txt with as many URLs as you wish to screengrab
-6. run screencapture.sh
+6. Run screencapture.sh
 
